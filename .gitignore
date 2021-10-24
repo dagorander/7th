@@ -1,6 +1,7 @@
 # Cargo generated files
 rust_version/web7th/debug/
 rust_version/web7th/target/
+node_version/node_modules/
 
 # Remove cargo.lock from gitignore if creating an executable, leave in for libraries
 # Cargo.lock
